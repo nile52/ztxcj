@@ -1,0 +1,352 @@
+@import '../../../style/default.less';
+@import '../../../style/common.less';
+#root{
+    height: 100%;
+    .warp{
+        height: 100%;
+    }    
+}
+
+#background_video{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+#wrap-2d{
+    width: 100%;
+    height: 80%;
+    padding:2vw;
+}
+#wrap-2d img{
+    width: 100%;
+}
+#wrap-3d{
+    width: 100%;
+    height: 80%;
+}
+
+
+.largesreen-wrap{
+    height: 100%;
+    padding: 2% 1% 0 1%;
+
+    .largesreen-logo{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        margin: 1vw;
+        color:@colorTextBlue;
+        font-weight: 700;
+        img{
+            width: 3vw;
+            height: 3vw;
+            margin-right: 10px;
+        }
+    }    
+    .largesreen-top{
+        height: 182px;
+        margin-bottom: 2vw;
+        background: url(../../../static/images/block_bg_top.png) no-repeat;
+        background-size: 100% 100%;
+        text-align: center;
+        padding: 30px 20px 0 20px;
+        color: @colorTextBlue;
+        font-weight: 700;
+        font-size: 18px;
+        .largesreen-top-title{
+            background: url(../../../static/images/page_title.png) no-repeat center center;
+        }
+        .largesreen-top-left{
+            margin: 20px 0;
+            .largesreen-top-left-block{
+                margin: 0 10px;
+                .solar-calendar{
+                    margin-top: 10px;
+                }
+                .time-info{
+                    font-size: 48px; 
+                    line-height: 36px;  
+                }
+                .weather-icon{
+                    width: 80px;
+                }
+                .temperature{
+                    font-size: 32px;
+                    .temperature-value{
+                        font-size: 48px;
+                    }
+                }           
+            }
+        }
+        .largesreen-top-right{
+            margin-top: -100px;
+            .user-wrap{
+                margin-top: 10px;
+            }
+            .toggle-button{
+                padding-right: 10px;
+                .square-btn{
+                    height: 88px;
+                    line-height: 88px;
+                }                
+            }
+
+        }
+    }
+    .largesreen-middle{
+        .gutter-example{
+            height: 0;
+            padding-bottom: 34%;            
+            position: relative;
+            .ant-row{
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                .ant-col-6{
+                    width: 21.5%
+                }
+                .ant-col-12{
+                    width: 55%;
+                    margin: 0 1%;
+                }
+                .block-title-left{
+                    color: @colorTextBlue;
+                    font-weight: 700;
+                    font-size: 18px;
+                    padding-bottom: 5px;                 
+                    display: inline-block;
+                    margin: 20px 20px 20px 3vw;
+                    border-bottom: 3px solid rgba(63,136,226,0.5);
+                    &:before{
+                        content: url(../../../static/images/block_titile_before_left.png);
+                        top: 19px;
+                        left: -13px;
+                        position: relative;
+                    }
+                    &:after{
+                        content: url(../../../static/images/block_titile_after_left.png);
+                        top: 15px;
+                        right: -15px;
+                        position: relative;
+                    }
+                }
+                .block-title-right{
+                    color: @colorTextBlue;
+                    font-weight: 700;
+                    font-size: 18px;
+                    padding-bottom: 5px;                 
+                    display: inline-block;
+                    margin: 20px 3vw 20px 20px;
+                    float: right;
+                    border-bottom: 3px solid rgba(63,136,226,0.5);
+                    &:after{
+                        content: url(../../../static/images/block_titile_before_right.png);
+                        top: 19px;
+                        left: 13px;
+                        position: relative;
+                    }
+                    &:before{
+                        content: url(../../../static/images/block_titile_after_right.png);
+                        top: 15px;
+                        right: 15px;
+                        position: relative;
+                    }
+                }
+                .largesreen-mid-side{
+                    // padding: 2%;
+                    height: 100%;
+                    
+                    position: relative;
+                    .gutter-box{
+                        background: url(../../../static/images/block_bg_side.png) no-repeat;
+                        background-size: 100% 100%;
+                        height: 100%;
+                        padding: 0 1vw;
+                        #bar-chart, #pop-chart, #gauge-chart{
+                            height: 35%;
+                            // border: 2px solid rgb(238, 238, 238);
+                        }
+
+                        .table{
+                            background-color: rgba(255, 255, 255, 0.5)
+                        }
+                    }
+                    
+                    .gear_box1{
+                        position: absolute;
+                        bottom: 0;
+                        right: 0;
+                        z-index: -1;
+                        .gear1{
+                            position: relative;
+                        }
+                        .gear2{
+                            position: relative;
+                            top: -19px;
+                            left: 40px;
+                        }
+                        .gear3{
+                            position: relative;
+                            top: -42px;
+                            left: 3px;
+                        }
+                    }
+                    .gear_box2{
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        z-index: -1;
+                        .gear1{
+                            position: relative;
+                        }
+                        .gear2{
+                            position: relative;
+                            top: -19px;
+                            left: 40px;
+                        }
+                    }
+                    #nowcheckin{
+                       color: @colorTextBlue;
+                       font-size: 2.5vw; 
+                       text-align: right;
+                       font-weight: 700;
+                       margin-right: 50px;
+                    }
+                }
+                .largesreen-mid-center{
+                    // padding: 2%;
+                    height: 100%;
+
+                    .gutter-box{
+                        height: 100%;
+                        padding: 0 1vw;
+                        background: url(../../../static/images/block_bg_mid.png) no-repeat;
+                        background-size: 100% 100%;                        
+                    }
+                    .largesreen-mid-center-bottom{
+                        width: 300px;
+                        height: 300px;
+                        padding: 75px 75px 0 0;
+                        background: url(../../../static/images/toggle_bg.png) left bottom no-repeat;
+                        position: absolute;
+                        right:-200px;
+                        bottom: -100px;
+                        z-index: 2;
+                        &:hover{
+                            .toggle-dimensional{
+                                .extre-fun{
+                                    display: block;
+                                }                                 
+                            }
+                        }                        
+                        .toggle-dimensional{            
+                            background: url(../../../static/images/toggle_animate.gif) center center no-repeat;
+                            text-align: center;
+                            margin-left: -7px;
+                            margin-top: 2px;
+                            .dimensional-title{
+                                width: 225px;
+                                height: 225px;
+                                font-size: 100px;
+                                color: @colorTextBlue;
+                                font-weight: 700;
+                                line-height: 225px
+                            }
+                            .extre-fun{
+                                position: relative;
+                                top: -225px;
+                                display: none;
+                                .fun{
+                                  background: @colorTextBlue;
+                                  width:70px;
+                                  height: 70px;
+                                  border-radius: 70px;
+                                  border: 5px solid @colorTextBlue;
+                                  &:hover{
+                                    border: 5px solid #FFC971;
+                                  }
+                                }
+                                .fun1{
+                                    position: absolute;
+                                    top: -75px;
+                                    left: 100px;
+                                }
+                                .fun2{
+                                    position: absolute;
+                                    top: -53px;
+                                    left: 174px;
+                                }
+                                .fun3{
+                                    position: absolute;
+                                    top: 0px;
+                                    left: 239px;
+                                }
+                                .fun4{
+                                    position: absolute;
+                                    top: 75px;
+                                    left: 256px;
+                                }
+                            }
+                        }
+                    }
+                }                
+            }
+        }
+    }
+    .largesreen-bottom{
+        width: 100%;
+        text-align: center;
+        position: fixed;
+        bottom: 0;
+        .largesreen-bottom-warp{
+            padding: 0 60px;
+            width: 820px;
+            height: 118px;        
+            margin: 0 auto;
+            background: url(../../../static/images/block_bg_bottom.png) no-repeat;   
+            .ant-col-5{
+                margin-top: 10px;
+                width: 20%;
+                .anticon{
+                    font-size: 36px;
+                    margin: 12px 0 0 0;
+                    transition: transform .3s ease-in-out;
+                    will-change: transform; 
+                    &:hover{
+                        transform: scale(1.6) translate(0px,-12px); 
+                    }
+                }
+                .anticon-class{
+                    display: block;
+                    text-align: center;
+                    transform: scale(.83);
+                    white-space: nowrap;
+                }
+                .ant-badge{
+                    color: @colorTextBlue;
+                    font-weight: 700;
+                    font-size: 20px;
+                    transition: color .3s ease-in-out;
+                    // &:hover{
+                    //     color: #fff                    
+                    // }  
+                }
+                .menu_btn{
+                    width: 60px;
+                    height: 60px;
+                }
+            }
+        }
+    }
+    .ant-modal-content{
+        background-color: transparent!important;
+        box-shadow: none!important;
+    }
+}
+

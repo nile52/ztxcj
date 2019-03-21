@@ -1,0 +1,43 @@
+{
+    "nodes": [
+        {
+            "color": "#c23531",
+            "label": "浙江省",
+            "attributes": {},
+            "y": -404.26147,
+            "x": -739.36383,
+            "id": "jquery",
+            "size": 100
+        },
+        {
+            "color": "#2f4554",
+            "label": "江苏省",
+            "attributes": {},
+            "y": -862.7517,
+            "x": -134.2215,
+            "id": "backbone",
+            "size": 50
+        },
+        {
+            "color": "#61a0a8",
+            "label": "江西省",
+            "attributes": {},
+            "y": -734.4221,
+            "x": -75.53079,
+            "id": "underscore",
+            "size": 80
+        },
+        {
+            "color": "#d48265",
+            "label": "安徽省",
+            "attributes": {},
+            "y": 624.50604,
+            "x": -818.97516,
+            "id": "faye",
+            "size": 30
+        }
+    ],
+    "edges": [
+
+    ]
+}

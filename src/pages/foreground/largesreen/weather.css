@@ -1,0 +1,357 @@
+big.jpg80 {
+    display: block;
+    background-image: url(../../../static/images/weather.png);
+    height: 80px;
+    width: 80px;
+}
+big.d0,big.d00 {
+    background-position: 0 0
+}
+
+big.d1,big.d01 {
+    background-position: -80px 0
+}
+
+big.d2,big.d02 {
+    background-position: -160px 0
+}
+
+big.d3,big.d03 {
+    background-position: -240px 0
+}
+
+big.d4,big.d04 {
+    background-position: -320px 0
+}
+
+big.d5,big.d05 {
+    background-position: -400px 0
+}
+
+big.d6,big.d06 {
+    background-position: -480px 0
+}
+
+big.d7,big.d07 {
+    background-position: -560px 0
+}
+
+big.d8,big.d08 {
+    background-position: -640px 0
+}
+
+big.d9,big.d09 {
+    background-position: 0 -80px
+}
+
+big.d10 {
+    background-position: -80px -80px
+}
+
+big.d11 {
+    background-position: -160px -80px
+}
+
+big.d12 {
+    background-position: -240px -80px
+}
+
+big.d13 {
+    background-position: -320px -80px
+}
+
+big.d14 {
+    background-position: -400px -80px
+}
+
+big.d15 {
+    background-position: -480px -80px
+}
+
+big.d16 {
+    background-position: -560px -80px
+}
+
+big.d17 {
+    background-position: -640px -80px
+}
+
+big.d18 {
+    background-position: 0 -160px
+}
+
+big.d19 {
+    background-position: -80px -160px
+}
+
+big.d20 {
+    background-position: -160px -160px
+}
+
+big.d21 {
+    background-position: -240px -160px
+}
+
+big.d22 {
+    background-position: -320px -160px
+}
+
+big.d23 {
+    background-position: -400px -160px
+}
+
+big.d24 {
+    background-position: -480px -160px
+}
+
+big.d25 {
+    background-position: -560px -160px
+}
+
+big.d26 {
+    background-position: -640px -160px
+}
+
+big.d27 {
+    background-position: 0 -240px
+}
+
+big.d28 {
+    background-position: -80px -240px
+}
+
+big.d29 {
+    background-position: -160px -240px
+}
+
+big.d30 {
+    background-position: -240px -240px
+}
+
+big.d31 {
+    background-position: -320px -240px
+}
+
+big.d32 {
+    background-position: -400px -240px
+}
+
+big.d33 {
+    background-position: -480px -240px
+}
+
+big.d53 {
+    background-position: -560px -240px
+}
+
+big.d57 {
+    background-position: -720px 0
+}
+
+big.d32 {
+    background-position: -720px -80px
+}
+
+big.d49 {
+    background-position: -720px -160px
+}
+
+big.d58 {
+    background-position: -720px -240px
+}
+
+big.d54 {
+    background-position: -800px 0
+}
+
+big.d55 {
+    background-position: -800px -80px
+}
+
+big.d56 {
+    background-position: -800px -160px
+}
+
+big.d301 {
+    background-position: -880px 0
+}
+
+big.d302 {
+    background-position: -880px -80px
+}
+
+big.n0,big.n00 {
+    background-position: 0 -320px
+}
+
+big.n1,big.n01 {
+    background-position: -80px -320px
+}
+
+big.n2,big.n02 {
+    background-position: -160px -320px
+}
+
+big.n3,big.n03 {
+    background-position: -240px -320px
+}
+
+big.n4,big.n04 {
+    background-position: -320px -320px
+}
+
+big.n5,big.n05 {
+    background-position: -400px -320px
+}
+
+big.n6,big.n06 {
+    background-position: -480px -320px
+}
+
+big.n7,big.n07 {
+    background-position: -560px -320px
+}
+
+big.n8,big.n08 {
+    background-position: -640px -320px
+}
+
+big.n9,big.n09 {
+    background-position: 0 -400px
+}
+
+big.n10 {
+    background-position: -80px -400px
+}
+
+big.n11 {
+    background-position: -160px -400px
+}
+
+big.n12 {
+    background-position: -240px -400px
+}
+
+big.n13 {
+    background-position: -320px -400px
+}
+
+big.n14 {
+    background-position: -400px -400px
+}
+
+big.n15 {
+    background-position: -480px -400px
+}
+
+big.n16 {
+    background-position: -560px -400px
+}
+
+big.n17 {
+    background-position: -640px -400px
+}
+
+big.n18 {
+    background-position: 0 -480px
+}
+
+big.n19 {
+    background-position: -80px -480px
+}
+
+big.n20 {
+    background-position: -160px -480px
+}
+
+big.n21 {
+    background-position: -240px -480px
+}
+
+big.n22 {
+    background-position: -320px -480px
+}
+
+big.n23 {
+    background-position: -400px -480px
+}
+
+big.n24 {
+    background-position: -480px -480px
+}
+
+big.n25 {
+    background-position: -560px -480px
+}
+
+big.n26 {
+    background-position: -640px -480px
+}
+
+big.n27 {
+    background-position: 0 -560px
+}
+
+big.n28 {
+    background-position: -80px -560px
+}
+
+big.n29 {
+    background-position: -160px -560px
+}
+
+big.n30 {
+    background-position: -240px -560px
+}
+
+big.n31 {
+    background-position: -320px -560px
+}
+
+big.n32 {
+    background-position: -400px -560px
+}
+
+big.n33 {
+    background-position: -480px -560px
+}
+
+big.n53 {
+    background-position: -560px -560px
+}
+
+big.n57 {
+    background-position: -720px -320px
+}
+
+big.n32 {
+    background-position: -720px -400px
+}
+
+big.n49 {
+    background-position: -720px -480px
+}
+
+big.n58 {
+    background-position: -720px -560px
+}
+
+big.n54 {
+    background-position: -800px -320px
+}
+
+big.n55 {
+    background-position: -800px -400px
+}
+
+big.n56 {
+    background-position: -800px -480px
+}
+
+big.n301 {
+    background-position: -880px -320px
+}
+
+big.n302 {
+    background-position: -880px -400px
+}

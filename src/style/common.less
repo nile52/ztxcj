@@ -1,0 +1,77 @@
+@import './default.less';
+@import './loading.less';
+ul,li{
+    list-style: none;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.clearfix{
+    &::after{
+        content:' ';
+        clear:both;
+        display: block;
+        visibility: hidden;
+    }
+}
+
+.blue-btn{
+    color: #fff;
+    background-color: #1E2E5C;
+    border-color: #1E2E5C;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.035);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.035);    
+}  
+.blue-btn:hover, .blue-btn:focus {
+    color: #fff;
+    background-color: #1E2E5C;
+    border-color: #1E2E5C;
+}  
+
+.transparent-btn,
+.transparent-btn:hover, 
+.transparent-btn:focus{
+    color: transparent;
+    background-color: transparent;
+    border-color: transparent;
+}  
+
+.container{
+    .nav-left{
+        background-color:#001529;
+        color: #ffffff;
+        height: calc(100vh);
+    }
+    .main{
+        height: calc(100vh);
+        background-color: @colorL;
+        overflow: auto;
+    }
+    .content{
+        position: relative;
+        padding: 20px;
+    }
+}
+
+.content-wrap{
+    background: #ffffff;
+    border: 1px solid #e8e8e8;
+    margin-top: -3px;
+    .ant-table-wrapper{
+        margin-left: -1px;
+        margin-right: -2px;
+    }
+}
+.ant-card{
+    button{
+        margin-right: 10px;
+    }
+}
+
+.marginlr10{
+    margin: 0 10px;
+}

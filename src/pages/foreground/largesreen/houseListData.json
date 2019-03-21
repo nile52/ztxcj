@@ -1,0 +1,283 @@
+{
+    "housing": [{
+        "housingUserTotal": 3,
+        "usage": "internet",
+        "housingId": 115,
+        "housingVehicle": 1,
+        "room": "1201"
+    },
+    {
+        "housingUserTotal": 2,
+        "usage": "personal",
+        "housingId": 116,
+        "housingVehicle": 2,
+        "room": "1202"
+    },
+    {
+        "housingUserTotal": 5,
+        "usage": "internet",
+        "housingId": 117,
+        "housingVehicle": 1,
+        "room": "1203"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1204"
+    },
+    {
+        "housingUserTotal": 2,
+        "usage": "personal",
+        "housingId": 116,
+        "housingVehicle": 2,
+        "room": "1205"
+    },
+    {
+        "housingUserTotal": 5,
+        "usage": "personal",
+        "housingId": 117,
+        "housingVehicle": 1,
+        "room": "1206"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1207"
+    },
+    {
+        "housingUserTotal": 2,
+        "usage": "personal",
+        "housingId": 116,
+        "housingVehicle": 2,
+        "room": "1208"
+    },
+    {
+        "housingUserTotal": 5,
+        "usage": "internet",
+        "housingId": 117,
+        "housingVehicle": 1,
+        "room": "1209"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1210"
+    },
+    {
+        "housingUserTotal": 2,
+        "usage": "personal",
+        "housingId": 116,
+        "housingVehicle": 2,
+        "room": "1211"
+    },
+    {
+        "housingUserTotal": 5,
+        "usage": "personal",
+        "housingId": 117,
+        "housingVehicle": 1,
+        "room": "1212"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1213"
+    },
+    {
+        "housingUserTotal": 2,
+        "usage": "personal",
+        "housingId": 116,
+        "housingVehicle": 2,
+        "room": "1214"
+    },
+    {
+        "housingUserTotal": 5,
+        "usage": "internet",
+        "housingId": 117,
+        "housingVehicle": 1,
+        "room": "1215"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1216"
+    },
+    {
+        "housingUserTotal": 2,
+        "usage": "personal",
+        "housingId": 116,
+        "housingVehicle": 2,
+        "room": "1217"
+    },
+    {
+        "housingUserTotal": 5,
+        "usage": "personal",
+        "housingId": 117,
+        "housingVehicle": 1,
+        "room": "1217"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1218"
+    },
+    {
+        "housingUserTotal": 5,
+        "usage": "personal",
+        "housingId": 117,
+        "housingVehicle": 1,
+        "room": "1219"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1220"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1221"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1222"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1223"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1224"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1225"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1226"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1227"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1228"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1229"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1230"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1231"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1232"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1233"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1234"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1235"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1236"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "internet",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1237"
+    },
+
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1239"
+    },
+    {
+        "housingUserTotal": 6,
+        "usage": "personal",
+        "housingId": 118,
+        "housingVehicle": 2,
+        "room": "1241"
+    }]
+}

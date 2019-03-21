@@ -1,0 +1,47 @@
+{
+            "11-1幢": {
+                "Total": 144,
+                "latitude": "30.3315984748",
+                "longTimeTotal": 26,
+                "storiedBuildingId": 41,
+                "flowTotal": 93,
+                "vehicleTotal": 47,
+                "longitude": "120.1572350161"
+            },
+            "12-2幢": {
+                "Total": 494,
+                "latitude": "30.3325013988",
+                "longTimeTotal": 94,
+                "storiedBuildingId": 45,
+                "flowTotal": 46,
+                "vehicleTotal": 28,
+                "longitude": "120.1566288368"
+            },
+            "3幢": {
+                "Total": 279,
+                "latitude": "30.3331450165",
+                "longTimeTotal": 79,
+                "storiedBuildingId": 46,
+                "flowTotal": 532,
+                "vehicleTotal": 52,
+                "longitude": "120.1572564737"
+            },
+            "4幢": {
+                "Total": 279,
+                "latitude": "30.3330755616",
+                "longTimeTotal": 141,
+                "storiedBuildingId": 47,
+                "flowTotal": 517,
+                "vehicleTotal": 180,
+                "longitude": "120.1567951338"
+            },
+            "5幢": {
+                "Total": 494,
+                "latitude": "30.3325801149",
+                "longTimeTotal": 75,
+                "storiedBuildingId": 44,
+                "flowTotal": 81,
+                "vehicleTotal": 44,
+                "longitude": "120.1573101179"
+            }
+}

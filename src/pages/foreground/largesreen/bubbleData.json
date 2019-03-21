@@ -1,0 +1,511 @@
+{
+        "userTypeTotalFlow": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "24": 0,
+            "14": 0,
+            "25": 0,
+            "15": 0,
+            "1": 0,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 2,
+            "9": 0,
+            "10": 0
+        },
+        "housingTotal": 847,
+        "userTypeTotalResident": {
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "24": 0,
+            "14": 0,
+            "25": 0,
+            "15": 0,
+            "1": 14,
+            "2": 0,
+            "3": 0,
+            "4": 0,
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0
+        },
+        "userTotal": 2080,
+        "nativePlace": [{
+            "native_place": "浙江省",
+            "number": 179
+        },
+        {
+            "native_place": "江苏省",
+            "number": 43
+        },  
+        {
+            "native_place": "广东",
+            "number": 27
+        },
+        {
+            "native_place": "安徽省",
+            "number": 23
+        },
+        {
+            "native_place": "江西省",
+            "number": 20
+        },
+        {
+            "native_place": "黑龙江省",
+            "number": 18
+        }, 
+        {
+            "native_place": "河南省",
+            "number": 18
+        },               
+        {
+            "native_place": "湖北省",
+            "number": 17
+        },
+        {
+            "native_place": "山东省",
+            "number": 17
+        },
+        {
+            "native_place": "其他",
+            "number": 138
+        },
+        {
+            "native_place": "湖南省",
+            "number": 28
+        },
+        {
+            "native_place": "福建省",
+            "number": 22
+        },
+        {
+            "native_place": "四川省",
+            "number": 17
+        },
+        {
+            "native_place": "吉林省",
+            "number": 17
+        },
+        {
+            "native_place": "河北省",
+            "number": 14
+        },
+        {
+            "native_place": "陕西省",
+            "number": 12
+        },
+        {
+            "native_place": "山西省",
+            "number": 12
+        },
+        {
+            "native_place": "辽宁省",
+            "number": 10
+        },
+        {
+            "native_place": "甘肃省",
+            "number": 8
+        },
+        {
+            "native_place": "内蒙古自治区",
+            "number": 6
+        },
+        {
+            "native_place": "云南省",
+            "number": 6
+        },
+
+        {
+            "native_place": "重庆市",
+            "number": 5
+        },
+        {
+            "native_place": "新疆维吾尔自治区",
+            "number": 4
+        },
+        {
+            "native_place": "广西壮族自治区",
+            "number": 4
+        },
+        {
+            "native_place": "贵州省",
+            "number": 3
+        },
+        {
+            "native_place": "其他",
+            "number": 2
+        },
+        {
+            "native_place": "海南省",
+            "number": 2
+        },
+        {
+            "native_place": "青海省",
+            "number": 2
+        },
+        {
+            "native_place": "北京市",
+            "number": 1
+        },
+        {
+            "native_place": "宁夏回族自治区",
+            "number": 1
+        },
+        {
+            "native_place": "上海市",
+            "number": 1
+        }],
+        "userType": {
+            "居民类型": [{
+                "id": 1,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:21:19",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:30",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "重点关注",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 2,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:21:29",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:30",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "退休",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 3,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:21:40",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:31",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "失业",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 4,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:32",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "退伍军人",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 5,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:32",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "残疾",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 6,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:33",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "育龄妇女",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 7,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:33",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "学龄前儿童",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 8,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:38",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "党员",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 9,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:38",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "团员",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 10,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:39",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "民主党派",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 11,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:39",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "低保户",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 12,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:40",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "孤寡老人",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 13,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:40",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "精神病人",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 14,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:41",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "失踪",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 15,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:41",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "死亡",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 24,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:42",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "低慢小持有者",
+                "state": 0,
+                "label": null
+            },
+            {
+                "id": 25,
+                "userKey": null,
+                "limit": 20,
+                "pages": null,
+                "fields": null,
+                "rule": null,
+                "createDate": "2018-05-30 18:28:12",
+                "createDateString": null,
+                "createName": null,
+                "modifyDate": "2018-09-19 23:53:43",
+                "modifyDateString": null,
+                "modifyName": null,
+                "delete": false,
+                "fieldLimit": "*",
+                "keyId": 1,
+                "name": "烈性犬饲养户",
+                "state": 0,
+                "label": null
+            }]
+        },
+        "flowTotal": 1412,
+        "EqptEquipmentChannelTotal": 3911
+}

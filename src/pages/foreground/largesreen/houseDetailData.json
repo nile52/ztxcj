@@ -1,0 +1,42 @@
+{
+    "31": {
+        "name": "1231",
+        "usage": "internet",
+        "area": 123,
+        "landlord": "王小川",
+        "contact": "12698745874",
+        "currentPopulation": 1,
+        "checkInTime": "2018-10-20 11:30",
+        "checkOutTime": "2018-10-21 11:30"
+    },
+    "33": {
+        "name": "1233",
+        "usage": "internet",
+        "area": 123,
+        "landlord": "王小川",
+        "contact": "12698745874",
+        "currentPopulation": 1,
+        "checkInTime": "2018-10-20 11:30",
+        "checkOutTime": "2018-10-21 11:30"
+    },
+    "35": {
+        "name": "1235",
+        "usage": "personal",
+        "area": 123,
+        "landlord": "赵庆伟",
+        "contact": "12698745874",
+        "currentPopulation": 1,
+        "checkInTime": "2018-10-20 11:30",
+        "checkOutTime": "2018-10-21 11:30"
+    },
+    "other": {
+        "name": "",
+        "usage": "internet",
+        "area": 123,
+        "landlord": "",
+        "contact": "",
+        "currentPopulation": 0,
+        "checkInTime": "2018-10-20 11:30",
+        "checkOutTime": "2018-10-21 11:30"
+    }
+}
